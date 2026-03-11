@@ -1,5 +1,7 @@
 ## Hi there i'm Dmytryi👋
 
+<img align="left" width="25%" alt="Profile Avatar" src="https://github.com/user-attachments/assets/2eb52427-f666-42cf-aa70-f56cfcfb04ac" />
+
 ### About Me:
 Hi, I'm Dmytriy 👋 I live in Ukraine 🇺🇦 and study Software Engineering at KPI (FICE)
 <br>**Currently working on:** [`🚀 QuizTime`](https://github.com/ApostolQleg/QuizTime)

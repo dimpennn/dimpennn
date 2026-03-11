@@ -1,6 +1,6 @@
 ## Hi there i'm Dmytryi👋
 
-<img align="left" width="25%" alt="Profile Avatar" src="https://github.com/user-attachments/assets/2eb52427-f666-42cf-aa70-f56cfcfb04ac" />
+<img align="left" width="35%" alt="Profile Avatar" src="https://github.com/user-attachments/assets/2eb52427-f666-42cf-aa70-f56cfcfb04ac" />
 
 ### About Me:
 Hi, I'm Dmytriy 👋 I live in Ukraine 🇺🇦 and study Software Engineering at KPI (FICE)
@@ -24,6 +24,8 @@ Hi, I'm Dmytriy 👋 I live in Ukraine 🇺🇦 and study Software Engineering a
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/dimpennn)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dimpennn/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dmitrijpenkivskij@gmail.com)
+
+<br clear="left"/>
 
 # 📊 GitHub Stats:
 ![My GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=dimpennn&theme=github_dark&show_icons=true&hide_border=true)
